@@ -1,14 +1,14 @@
 # ptycoin
-Ptycoin Cryptomoneda de Panam·
+Ptycoin Cryptomoneda de Panam√°
 
 Use the following instructions to mine a block.
 
 Open your wallet, and make sure your wallet is connected with a node. 
 Your wallet is connected when you see the icon Wallet connections Scrypt and SHA256 in the lower right corner of your wallet.
 
-The message ìSyncing Headers (0,0%)î will disappear once you mine your first block.
+The message ‚ÄúSyncing Headers (0,0%)‚Äù will disappear once you mine your first block.
 
-Close your wallet and create the file ptycoin507.conf in the folder ì%APPDATA%\ptycoin507\î.
+Close your wallet and create the file ptycoin507.conf in the folder ‚Äú%APPDATA%\ptycoin507\‚Äù.
 
 Paste the following text into ptycoin507.conf and save the file.
 
@@ -18,7 +18,7 @@ rpcallowip=127.0.0.1
 rpcport=11225
 listen=1
 server=1
-addnode=18.224.6.221
+addnode=ptycoin507.ddns.net
 
 Open your wallet.
 
