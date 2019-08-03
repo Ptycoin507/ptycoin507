@@ -18,6 +18,8 @@ rpcallowip=127.0.0.1
 rpcport=11225
 listen=1
 server=1
+addnode=ptycoin507node.ddns.net
+addnode=ptycoin507usa.ddns.net
 addnode=ptycoin507.ddns.net
 
 Open your wallet.
